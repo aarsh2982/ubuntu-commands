@@ -1,4 +1,4 @@
-# ubuntu-commands
+# Ubuntu-Commands
 List of all commands used in terminal
 
 ## File and Directory Management
